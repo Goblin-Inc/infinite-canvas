@@ -1,0 +1,8 @@
+venv/
+.venv/
+.vevn/
+__pycache__/
+*.pyc
+canvas_backup*.py
+*.json
+.DS_Store
