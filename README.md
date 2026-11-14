@@ -1,18 +1,20 @@
 # Infinite Canvas (DBS)
 
-Десктопное приложение — бесконечный интерактивный холст (Whiteboard / Infinite Canvas) на **Python** и **PyQt6** в стиле Obsidian Canvas / Miro.
+> 🌐 **Language:** **English** | [Русский (README_Ru.md)](README_Ru.md)
+
+An interactive desktop whiteboard and infinite canvas application built with **Python** and **PyQt6**, inspired by Obsidian Canvas and Miro.
 
 ![Canvas Preview](canvas.png)
 
-## ✨ Возможности
-- 🖌️ **Рисование пером (`PEN`)** — свободное рисование на холсте с выбором цвета и толщины линии.
-- 📝 **Текстовые карточки (`TEXT`)** — создание перемещаемых и редактируемых заметок на холсте.
-- 🖼️ **Изображения (`ImageCardItem`)** — добавление и свободное перемещение картинок на доске.
-- 🔗 **Связи (`LINK`)** — соединение карточек и элементов направленными линиями.
-- 💾 **Сохранение и загрузка** — сериализация всей сцены в формат JSON и экспорт холста.
-- 🔍 **Масштабирование и панорамирование** — плавный зум колесом мыши и перемещение по бесконечному полотну.
+## ✨ Features
+- 🖌️ **Freehand Drawing (`PEN`)** — sketch freely anywhere on the canvas with customizable stroke color and width.
+- 📝 **Text Cards (`TEXT`)** — create draggable, editable note cards on the board.
+- 🖼️ **Image Cards (`ImageCardItem`)** — drop and arrange images freely across the canvas.
+- 🔗 **Directed Links (`LINK`)** — connect cards and items with directional connector lines.
+- 💾 **Save & Load** — serialize the entire scene to JSON and export the canvas.
+- 🔍 **Smooth Zoom & Pan** — fluid mouse-wheel zooming and infinite canvas panning.
 
-## 🚀 Установка и запуск
+## 🚀 Installation & Usage
 
 ```bash
 python3 -m venv venv
