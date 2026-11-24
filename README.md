@@ -22,3 +22,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 python3 canvas.py
 ```
+
+## 📄 License
+MIT © [Goblin-Inc](https://github.com/Goblin-Inc)
